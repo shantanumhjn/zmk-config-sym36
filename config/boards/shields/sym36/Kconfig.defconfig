@@ -1,0 +1,6 @@
+if SHIELD_SYM36
+
+config ZMK_KEYBOARD_NAME
+    default "sym36"
+
+endif
